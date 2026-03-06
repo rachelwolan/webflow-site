@@ -1,0 +1,8 @@
+{
+  "name": "webflow-site",
+  "version": "1.0.0",
+  "description": "Webflow site companion - manage your site via the Webflow MCP server",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
